@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: master
+  repo: phill-85/test
 
 site_url: https://example.com
 
